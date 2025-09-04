@@ -145,7 +145,7 @@ namespace xayDungNgayThang
                 else
                     Console.WriteLine("Nam khong nhuan");
                 Console.WriteLine("Hom truoc: {0}/{1}/{2}",nt.HomTruoc().Ngay ,nt.HomTruoc().Thang, nt.HomTruoc().Nam);
-                Console.WriteLine("Hom truoc: {0}/{1}/{2}", nt.HomSau().Ngay, nt.HomSau().Thang, nt.HomSau().Nam);
+                Console.WriteLine("Hom sau: {0}/{1}/{2}", nt.HomSau().Ngay, nt.HomSau().Thang, nt.HomSau().Nam);
             }
         }
     }
