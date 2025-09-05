@@ -1,9 +1,10 @@
-﻿using System;
+﻿// Bai01 - 2001240040 - Trần Gia Bảo - 15DHTH02
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// Code by Trần Gia Bảo 15DHTH02 2001240040
+
 
 namespace xayDungNgayThang
 {
@@ -150,4 +151,3 @@ namespace xayDungNgayThang
         }
     }
 }
-// Code by Trần Gia Bảo 15DHTH02 2001240040
