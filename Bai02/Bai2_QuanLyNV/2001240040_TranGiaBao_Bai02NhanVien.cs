@@ -124,7 +124,7 @@ namespace Bai2_QuanLyNV
 
         public double HSPCTN()
         {
-            return DateTime.Now.Year - namVaoLam;
+            return (DateTime.Now.Year - namVaoLam)/100;
         }
 
         public double LCB()
